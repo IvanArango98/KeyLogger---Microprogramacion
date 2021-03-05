@@ -1,0 +1,5 @@
+﻿  Assembling keylogger.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+keylogger.asm(1009): warning A6001: no return from procedure
+keylogger.asm(1009): warning A6004: procedure argument or local not referenced : systime
+  KeyLogger.vcxproj -> C:\Users\Carlos Morales\Documents\Visual Studio 2019\Projects\KeyLogger\Debug\KeyLogger.exe
